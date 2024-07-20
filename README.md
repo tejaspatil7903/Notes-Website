@@ -1,8 +1,17 @@
-# React + Vite
+# Notes Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the Notes Website repository! This project is a simple web application built with React where users can browse and download notes for various computer science subjects.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Browse and download notes for different computer science subjects.
+- Clean and responsive user interface.
+- Lightweight and easy to use.
+
+## Usage
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/tejaspatil7903/Notes-Website.git
+   cd Notes-Website
