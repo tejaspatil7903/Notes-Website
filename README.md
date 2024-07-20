@@ -8,6 +8,10 @@ Welcome to the Notes Website repository! This project is a simple web applicatio
 - Clean and responsive user interface.
 - Lightweight and easy to use.
 
+## Deployment
+
+The project is deployed and can be accessed [here](https://notes-website-tejas.vercel.app/).
+
 ## Usage
 
 1. **Clone the repository:**
